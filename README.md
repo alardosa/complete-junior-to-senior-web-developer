@@ -1,8 +1,8 @@
-# The Complete Junior to Senior Web Developer Roadmap (2020)
+# The Complete Junior to Senior Web Developer Roadmap
 
 ## Table of Contents
 
-- [The Complete Junior to Senior Web Developer Roadmap (2020)](#the-complete-junior-to-senior-web-developer-roadmap-2020)
+- [The Complete Junior to Senior Web Developer Roadmap (2020)](#the-complete-junior-to-senior-web-developer-roadmap)
   - [Table of Contents](#table-of-contents)
   - [**Section 2: SSH**](#section-2-ssh)
   - [**Section 3: Performance Part 1**](#section-3-performance-part-1)
@@ -1250,3 +1250,29 @@ functions:
 - Start from Why?
 
 **[⬆ back to top](#table-of-contents)**
+
+# The Complete Junior to Senior Web Developer Roadmap
+
+Become a Fullstack Web Developer by learning the most in demand skills! Graduates of this course are now working at companies like Google, Tesla, Amazon, Apple, Shopify, JP Morgan, Facebook + other top tech companies (...seriously).
+
+Join a live online community of over 400,000+ developers and a course taught by an industry expert that has actually worked in Lazada Philippines as a Senior Developer and Tech Lead.
+
+Become a modern web developer. It doesn’t just cover a small portion of the industry. This covers everything you need to know to get hired: from absolute zero knowledge to being able to put things on your resume that will allow you to live the life you want.
+
+Students have commented how the projects in this course have impressed their interviewers and allowed them to get an offer.
+
+I'm a software developer who has worked directly with these technologies.  I love programming and believe that there needs to be a course out there that actually teaches valuable real life skills (because most of them are taught by teachers with no work experience).
+
+I have taken the best pieces, tools, and practices that I have found over the years, and condensed everything.
+
+### References
+[Brilliant Tips for The Complete Junior to Senior Web Developer Roadmap](https://www.alardosa.com/web-developer-junior-to-senior-front-end-we-dev/)
+
+[The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)
+
+## Contact
+You can send me a note on Linkedin [@alardosa](https://www.linkedin.com/in/alardosa/)
+
+or visit my website at:
+
+[www.alardosa.com](https://www.alardosa.com)
