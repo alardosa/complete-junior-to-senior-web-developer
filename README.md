@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [The Complete Junior to Senior Web Developer Roadmap (2020)](#the-complete-junior-to-senior-web-developer-roadmap)
+- [The Complete Junior to Senior Web Developer Roadmap](#the-complete-junior-to-senior-web-developer-roadmap)
   - [Table of Contents](#table-of-contents)
   - [**Section 2: SSH**](#section-2-ssh)
   - [**Section 3: Performance Part 1**](#section-3-performance-part-1)
@@ -1266,7 +1266,7 @@ I'm a software developer who has worked directly with these technologies.  I lov
 I have taken the best pieces, tools, and practices that I have found over the years, and condensed everything.
 
 ### References
-[Brilliant Tips for The Complete Junior to Senior Web Developer Roadmap](https://www.alardosa.com/web-developer-junior-to-senior-front-end-we-dev/)
+[How to Start as a Freelance Web Developer – Junior to Senior Roadmap](https://www.alardosa.com/how-to-start-as-a-freelance-web-developer/)
 
 [The Complete Junior to Senior Web Developer Roadmap](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)
 
