@@ -1,6 +1,6 @@
-# The Complete Junior to Senior Web Developer Roadmap
+# Web Developer Complete: How to become Web Developer and get hired!
 
-## Table of Contents
+#### Table of Contents
 
 - [The Complete Junior to Senior Web Developer Roadmap](#the-complete-junior-to-senior-web-developer-roadmap)
   - [Table of Contents](#table-of-contents)
